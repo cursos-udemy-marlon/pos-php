@@ -56,9 +56,11 @@
 
   
 </div>
-<!-- ./wrapper -->
+<?php
+   include "modulos/cabezote.php";
+?>
 
-<script src="js/plantilla.js"></script>
+<script src="vistas/js/plantilla.js"></script>
 
 </body>
 </html>
