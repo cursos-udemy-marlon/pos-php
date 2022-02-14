@@ -1,0 +1,2 @@
+// SidebarMenu
+$('.sidebar-menu').tree()
