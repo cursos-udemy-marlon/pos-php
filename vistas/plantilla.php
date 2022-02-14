@@ -57,8 +57,18 @@
   
 </div>
 <?php
+   /*  Cabezote  */
    include "modulos/cabezote.php";
+
+   /* Menu */
+   include "modulos/menu.php";
+
+   include "modulos/contenido.php";
+
+   include "modulos/footer.php";
 ?>
+
+    
 
 <script src="vistas/js/plantilla.js"></script>
 
